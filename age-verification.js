@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
   // ✅ Config
-  const backgroundImage = 'https://admin.shopify.com/store/eastdrops/content/files/40417041645835?link_source=search&selectedView=all'; // Replace with your Shopify file URL
+  const backgroundImage = 'https://admin.shopify.com/store/eastdrops/content/files/40417041645835'; 
   const languages = {
     en: {
       title: "Are you old enough?",
