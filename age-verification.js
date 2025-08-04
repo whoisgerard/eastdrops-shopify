@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
   // ✅ Config
+  console.log('loaded');
   const backgroundImage = 'https://admin.shopify.com/store/eastdrops/content/files/40417041645835'; 
   const languages = {
     en: {
